@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div>
 My names Matthew O'Neill
+</div>
+
+<div>
 <strong>About Me</strong>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewONeill)](https://github.com/anuraghazra/github-readme-stats)
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api/?username=MatthewONeill&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&hide=issues,contribs) 
