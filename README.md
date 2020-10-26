@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-### My names Matthew O'Neill
+
+<h3> Matthew O'Neill | 💻 Developer | 🌏 Ottawa, CAN </h3> 
+
 
 </div>
 
