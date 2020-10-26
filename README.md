@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-<h3> Matthew O'Neill | 💻 Software Developer | 🌏 Ottawa, CAN </h3> 
+<h3> :sun_with_face: Matthew O'Neill | 💻 Software Developer | :milky_way: Ottawa, CAN </h3> 
 
 
 </div>
