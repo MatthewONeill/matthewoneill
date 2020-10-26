@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-<h3> Matthew O'Neill | 💻 Developer | 🌏 Ottawa, CAN </h3> 
+<h3> Matthew O'Neill | 💻 Software Developer | 🌏 Ottawa, CAN </h3> 
 
 
 </div>
