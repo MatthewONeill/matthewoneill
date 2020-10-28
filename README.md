@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-### Hi there 👋
+### Hey there 👋
 
 
 <h3> :sun_with_face: Matthew O'Neill | 💻 Software Developer | :milky_way: Ottawa, CAN </h3> 
