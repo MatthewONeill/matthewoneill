@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- :books: Bachelor of Computer Science Honours at Carleton University (Third Year Standing)
+- :books: Bachelor of Computer Science Honours at Carleton University (Fourth Year Standing)
 - :thinking: Learning C# .NET Development and React 
 - ⚡ Hobbies Include: All things weightlifting, music, and video games
 
