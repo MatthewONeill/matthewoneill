@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- :books: Bachelor of Computer Science Honours at Carleton University (Fourth Year Standing)
+- :books: Bachelor of Computer Science Honours at Carleton University
 - :thinking: Learning Neural Networks and Web Development 
 - ⚡ Hobbies Include: All things weightlifting, music, and video games
